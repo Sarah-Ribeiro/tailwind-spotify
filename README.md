@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Um clone do Spotify criado usando Tailwind CSS e NextJS, seguindo o projeto da Rocketseat. <br/>
 </p>
 
 <p align="center">
