@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Clone Spotify Tailwind CSS </h1>
 
 <p align="center">
 Um clone do Spotify criado usando Tailwind CSS e NextJS, seguindo o projeto da Rocketseat. <br/>
